@@ -1,5 +1,5 @@
-1. Создала репозиторий в `#GitHub`
-2. В терминале ввела `#git clone https://github.com/makivila/new_repos.git`
+1. Создала репозиторий в `GitHub`
+2. В терминале ввела `git clone https://github.com/makivila/new_repos.git`
 3. Создала ```sh .gitignore ```, в который поместила env
 4. ```sh git add . ```
 5. ```sh git commit -m "initial commit" ```
